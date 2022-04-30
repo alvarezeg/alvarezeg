@@ -11,7 +11,7 @@ learn of the 3 C's. C, C++, C#!
 ---
 
 Toolbox 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50"/>
 
 ---
 
