@@ -1,5 +1,4 @@
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=02F76D&center=true&lines=Passionate+About+Code;Work+Smarter+Not+Harder)](https://git.io/typing-svg)
 
 
 
@@ -10,7 +9,6 @@ learn of the 3 C's. C, C++, C#!
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus Logo" width="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp Logo" width="50"/>
 
-I am an Arcade technician and I plan on climbing the ladder till I am able to manage my own Arcade Tech Team.
 <!--
 **alvarezeg/alvarezeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
