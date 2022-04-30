@@ -1,5 +1,12 @@
-### Hi there 👋
 
+
+
+
+
+
+
+<A coder trying to perfect python skills to a proficent pythonic language. On the side note of python, a major goal is to 
+learn of the 3 C's. C, C++, C#!>
 <!--
 **alvarezeg/alvarezeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
