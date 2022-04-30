@@ -1,9 +1,4 @@
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=02F76D&center=true&lines=Passionate+About+Code;Work+Smarter+Not+Harder)](https://git.io/typing-svg)
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3636F7&lines=Passionate+About+Code;Work+Smarter+Not+Harder)](https://git.io/typing-svg)
 
 
 
