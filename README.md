@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=ALVAREZEG)](https://git.io/typing-svg)
 
-def whoami():
+# def whoami():
     
         print("Whoami you may be asking  yourself?")
 
@@ -22,7 +22,7 @@ def whoami():
         print("\nThank you for checking out my github.")
         print("Passionate about code, and learning new skills.")
 
-whoami()
+# whoami()
 
 
 
