@@ -27,7 +27,7 @@ whoami()
 
 ## Modern WareFare K/D Ratio
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarezeg&langs_count=4&theme=tokyonight)](Python, C, C++, Rust)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarezeg&langs_count=Python, C, C++, Rust&theme=tokyonight)]()
 
 
 
