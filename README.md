@@ -36,6 +36,10 @@ whoami()
 
 
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alvarezeg?cardType=github&theme=gotham)](https://git.io/awesome-stats-card)
+
+
+
 
 
 
