@@ -24,7 +24,7 @@ def whoami():
 whoami()
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=yay+-S+alvarezeg+programming+languages)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=yay+-S+alvarezeg+programming+langs)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Downloaded+Python;)](https://git.io/typing-svg)
