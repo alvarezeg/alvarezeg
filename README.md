@@ -26,12 +26,13 @@ whoami()
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0BF704&lines=yay+-S+AlvarezEg+Lang_Stats)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0BF704&lines=Downloaded+Lang_stats:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0BF704&lines=;Downloaded+Lang_stats:)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0BF704&lines=;Python+75%25)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0BF704&lines=;C%2B%2B+35%25)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0BF704&lines=;C+25%25)](https://git.io/typing-svg)
 
 
 
