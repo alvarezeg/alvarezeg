@@ -24,7 +24,7 @@ def whoami():
 whoami()
 
 
-Yay install AlvarezEg Stats
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=yay+install+alvarez;line=stats)](https://git.io/typing-svg)
 
 
 
