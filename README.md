@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=ALVAREZEG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0BF704&lines=AlvarezEg;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 
 def whoami():
         
