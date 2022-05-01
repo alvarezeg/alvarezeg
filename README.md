@@ -25,10 +25,6 @@ def whoami():
 whoami()
 
 
-## Modern WareFare K/D Ratio
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarezeg&langs_count=Python, C, C++, Rust&theme=tokyonight)]()
-
 
 
 
