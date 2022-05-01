@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=ALVAREZEG)](https://git.io/typing-svg)
 
 def whoami():
+        
         print("Whoami you may be asking  yourself?")
 
         DoYouWantToKnow = input("Want to know who I am? ")
@@ -23,7 +24,7 @@ def whoami():
 whoami()
 
 
-
+Yay install AlvarezEg Stats
 
 
 
