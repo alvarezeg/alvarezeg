@@ -27,11 +27,11 @@ whoami()
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=yay+-S+alvarezeg;languages)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Download + Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Downloaded+Python;)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Download + Cpp)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Downloaded+Cpp;)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Download + C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Downloaded+C;)](https://git.io/typing-svg)
 
 
 
