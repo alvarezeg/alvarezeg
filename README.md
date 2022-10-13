@@ -11,6 +11,8 @@ def whoami():
             print("\nSee many dought me for not having a perfect life, but what they don't know is..")
             print("I am the guy that will climb Mount Everst, no matter what comes across my path, ")
             print("you will see me on top of Mount Everst with those that I brought along with me.")
+            print("Thank you, to the person who told me to chase my dreams because they see,")
+            print("my potential in tech field.")
         
 
         elif (DoYouWantToKnow == "no" or DoYouWantToKnow == "No"):
